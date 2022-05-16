@@ -1,2 +1,2 @@
 # Calculadora
-Projeto desenvolvido acompanhando uma vídeo aula no Youtube
+Projeto de aplicativo para celular desenvolvido acompanhando uma vídeo aula no Youtube
